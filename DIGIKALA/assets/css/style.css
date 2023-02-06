@@ -181,6 +181,10 @@
         color: black;
     }
     
+    .shopping-basket img:hover+div {
+        color: #f79faa;
+    }
+    
     .right-bottom-header {
         display: flex;
         justify-content: flex-end;
