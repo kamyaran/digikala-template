@@ -1,0 +1,44 @@
+   @font-face {
+       font-family: fredokaregular;
+       src: url(../fonts/Fredoka-Regular.ttf);
+   }
+   
+   * {
+       font-family: fredokaregular;
+   }
+   
+   .form-box {
+       margin: auto;
+       border: 1px solid black;
+       padding: 31px;
+       margin-top: 232px;
+       height: 426px;
+       width: 384px;
+       border-radius: 30px;
+   }
+   
+   .login-logo {
+       text-align: center;
+   }
+   
+   .logoimg {
+       height: 45px;
+       width: auto;
+   }
+   
+   label {
+       display: block;
+       margin-bottom: 10px;
+   }
+   
+   input {
+       padding: 10px 15px;
+       width: 284px;
+       border: 1px solid blue;
+       border-radius: 10px;
+       border-color: #00000069;
+   }
+   
+   .form-group {
+       margin-bottom: 25px;
+   }
