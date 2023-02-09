@@ -6,11 +6,13 @@ aside {
     border: none;
     margin-left: 25px;
     position: sticky;
-    top: 100px;
+    top: 500px;
 }
 
 .allaside {
     height: 100%;
+    position: relative;
+    top: -256px;
 }
 
 .filteraside {
