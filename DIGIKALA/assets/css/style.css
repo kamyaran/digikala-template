@@ -427,3 +427,18 @@ footer {
 .sixth-pic-d {
     position: relative;
 }
+
+.amazing-market {
+    display: flex;
+    width: 1381px;
+    height: 131px;
+    background-color: #eef1f0;
+    margin: 40px 270px;
+    border-radius: 42px;
+}
+
+@media screen and (min-width: 768px) {
+    .header {
+        font-size: 5pt;
+    }
+}
