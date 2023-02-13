@@ -1,0 +1,7 @@
+        @keyframes move {
+        from {
+            left: 142px
+        }
+        to {
+            left: 144px;
+        }
