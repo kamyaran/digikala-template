@@ -1,7 +1,18 @@
         @keyframes move {
-        from {
-            left: 142px
+            from {
+                left: 142px
+            }
+            to {
+                left: 144px;
+            }
         }
-        to {
-            left: 144px;
+        
+        @keyframes logo-animation {
+            from {
+                /* display: none; */
+            }
+            to {
+                transform: rotate(90deg);
+                transform-origin: 0 0;
+            }
         }

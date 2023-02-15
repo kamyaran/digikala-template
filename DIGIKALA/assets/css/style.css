@@ -46,6 +46,10 @@ header {
     z-index: 1;
 }
 
+.logo {
+    animation: logo-animation 0.8s linear 2 alternate;
+}
+
 .bottom-header {
     display: flex;
     position: sticky;
